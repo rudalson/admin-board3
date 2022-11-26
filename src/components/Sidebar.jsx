@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Sidebar.css';
 import Logo from '../imgs/logo.png';
 import { UilSignOutAlt } from '@iconscout/react-unicons';
-import { SidebarData } from '../Data/data';
+import { SidebarData } from '../Data/Data';
 
 const Sidebar = () => {
   const [selected, setSelected] = useState(0);
