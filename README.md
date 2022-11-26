@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 참고
+
+[React Responsive Admin Panel Tutorial | React Admin Dashboard Template Design | For Beginners](https://youtu.be/K7vHoUwClaM)
+
+[deploy link](https://rudalson.github.io/admin-board3/)
+
 ## Available Scripts
 
 In the project directory, you can run:
